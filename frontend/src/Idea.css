@@ -1,0 +1,9 @@
+.idea{
+    border-bottom: black 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.idea-info{
+    font-weight: bolder;
+}

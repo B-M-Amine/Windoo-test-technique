@@ -1,0 +1,10 @@
+.cont{
+  width: 60%;
+  margin: 0 auto;
+  background-color: #EEEEEE;
+  height: 100%;
+}
+
+.cont > * {
+  padding: 10px;
+}
